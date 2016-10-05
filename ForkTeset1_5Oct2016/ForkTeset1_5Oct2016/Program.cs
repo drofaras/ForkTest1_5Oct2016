@@ -10,7 +10,7 @@ namespace ForkTeset1_5Oct2016
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from drofaras from dotcom! and now saraford!");
+            Console.WriteLine("Hello from drofaras from dotcom! and now removing any other updates");
         }
     }
 }
